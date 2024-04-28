@@ -494,8 +494,6 @@ members.html
 connectwithus.html
 
 ```
-
-<!DOCTYPE html>
 <html>
 <head>
     <title>KVL SOFTWARES - CONNECT WITH US</title>
@@ -653,19 +651,19 @@ connectwithus.html
 
 HOME PAGE
 
-![alt text](homepagescreenshot.png)
+![homepagescreenshot](https://github.com/ikeerthivasanswaminathan/softweb/assets/148937372/35fbc3a4-4a15-4707-a9d3-e94ef94237cc)
 
 WHAT WE PROVIDE PAGE
 
-![alt text](whatweprovidescreenshot.png)
+![whatweprovidescreenshot](https://github.com/ikeerthivasanswaminathan/softweb/assets/148937372/ed645448-0677-4bef-86f0-7d714d95c723)
 
 MEMBERS PAGE 
 
-![alt text](membersscreenshot.png)
+![membersscreenshot](https://github.com/ikeerthivasanswaminathan/softweb/assets/148937372/f8591139-9c99-4a30-b313-1f2a076c7354)
 
 CONNECT WITH US PAGE
 
-![alt text](connectwithusscreenshot.png)
+![connectwithusscreenshot](https://github.com/ikeerthivasanswaminathan/softweb/assets/148937372/5903562a-af7f-4f89-a00f-0b24bd44c542)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
